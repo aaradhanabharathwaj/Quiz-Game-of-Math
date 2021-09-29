@@ -1,0 +1,22 @@
+body{
+    color: white;
+    font-family: 'Pacifico', cursive;
+    background-color: rgb(0, 0, 0);
+}
+input{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    border-color: white;
+    font-size: medium;     
+    font-family: 'Pacifico', cursive;
+    color: black;
+}
+button{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    font-size: medium;   
+    font-family: 'Pacifico', cursive;
+    color: rgb(0, 0, 0);
+}
